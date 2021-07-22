@@ -9,4 +9,4 @@ You can find a brief presentation of the project on the github reporsitory
 
 I'm currently cleaning this project ;)
 
-You can find de projet in the fill: cpastone.ipynb-copy2
+You can find projet with the file: cpastone.ipynb-copy2
